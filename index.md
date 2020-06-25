@@ -1,19 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to Logice's Webpage :)
 
-You can use the [editor on GitHub](https://github.com/Logicee/Logicee.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can check out whatever I'm working on from here!
 
 ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Not really sure what to do here....
 
 ```markdown
-Syntax highlighted code block
+This is pretty fun, easy to make without HTML and CSS
 
-# Header 1
-## Header 2
-### Header 3
+# Foo
+## Blah
+### Foo
 
 - Bulleted
 - List
